@@ -1,0 +1,6 @@
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+llm_model: "google/flan-t5-base"
+chunk_size: 500      # words per chunk
+chunk_overlap: 100   # overlapping words
+top_k: 5
+max_answer_tokens: 256

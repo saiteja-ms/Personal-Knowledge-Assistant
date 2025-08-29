@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+PyMuPDF
+beautifulsoup4
+requests
+fastapi
+uvicorn
+pydantic
+streamlit
